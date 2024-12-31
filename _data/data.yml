@@ -4,7 +4,7 @@
 
 header:
   # Profile information
-  avatar: https://gravatar.com/avatar/aa26091b09cfe62aaf5e4255f89097e6.png?s=150&d=https%3A%2F%2Fwww.fablabs.io%2Fdefault-user-avatar.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  avatar: profile2.jpeg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
   email: contact@rheahau.com
   phone: 0123 456 78900
   website: https://rheahau.com
