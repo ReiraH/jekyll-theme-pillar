@@ -4,33 +4,35 @@
 
 header:
   # Profile information
-  avatar: profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-  email: steve.doe@website.com
+  avatar: https://gravatar.com/avatar/aa26091b09cfe62aaf5e4255f89097e6.png?s=150&d=https%3A%2F%2Fwww.fablabs.io%2Fdefault-user-avatar.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  email: contact@rheahau.com
   phone: 0123 456 78900
-  website: https://yourwebsite.com
-  linkedin: stevedoe
-  github: stevedoe
-  gitlab:
-  bitbucket:
-  twitter: "@stevedoe"
+  website: https://rheahau.com
+  linkedin: rhea-h-a821ba22
+  github: reirah
+  gitlab: rheahau
+  bitbucket: rheahau
+  twitter: "@chilay09"
   stack-overflow: # Number/Username, e.g. 123456/alandoe
-  codewars:
+  codewars: rheahau
   goodreads: # Number-Username, e.g. 123456-alandoe
 
 languages:
-  - idiom: English
+  - idiom: Dutch
     level: Native
-  - idiom: French
+  - idiom: English
     level: Professional
-  - idiom: Spanish
-    level: Professional
+  - idiom: Chinese
+    level: Native
 
 interests:
-  - name: Climbing
+  - name: Running, Swimming, Workout
     link:
-  - name: Snowboarding
+  - name: Watching YouTube and Twitch
     link:
-  - name: Cooking
+  - name: Self-study
+    link:
+  - name: Reading magazines, biographics and science books
     link:
 
 summary: |
@@ -42,9 +44,9 @@ summary: |
   Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget.
 
 education:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: BSc in Computer Science
+    university: Rotterdam University of Applied Sciences, Rotterdam
+    time: 2014 - 2022
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -53,6 +55,33 @@ education:
       pretium quis, sem.
         - Bullet point
         - Bullet point
+        
+        Projects during the education:
+        Minor Project (Data Science) - Prediction speed of cars on the high way
+        Project 5: Project Pinball Machines - Renovation
+        Project 4: Project Space Cadets - Williams Smartset 1969 - Renovation
+        Project 3: ATM (Automated Teller Machine)
+        Project 2: Boe-Bot Robot
+        Project 1: Simulation of a hob
+        
+        Alternative activities:
+        - Dresscode: Volunteering education for the girls groups (age 8-12)
+        - Information days for Computer Science
+        
+        Courses include:
+        - Soft Skills
+        - Object-Oriented Programming: Java, C, C++, Python
+        - Functional Programming: Haskell
+        - Embeded System
+        - Computer Network and CISCO
+        - Database and SQL 
+        - Mathematics
+        - Artificial Intelligence
+        - Security
+        - Computer Graphics
+        - Hardware and Interfacing Sensor
+        - Operating system
+        - Physics
   - degree: BSc in Applied Mathematics
     university: Bristol University
     time: 2007 - 2011
@@ -66,21 +95,24 @@ education:
         - Bullet point
 
 experiences:
-  - role: Lead Developer
-    time: 2018 - Present
-    company: Startup Hub
+  - role: Trainee, Data & Information Analyst
+    time: 2014 - Present
+    company: UWV
     details: |
-      Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit.
-      Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
-      Donec pede justo, fringilla vel.
+      Role description: During my traineeship, I participated in establishing both functional and
+      technical rules for data retention. Furthermore, I focused significantly on understanding data
+      models within the organization and what the business needs regarding data. I frequently
+      communicated with various stakeholders, from management to operational teams, to align a
+      unified process. Additionally, I facilitated communication between the stakeholders. I assisted
+      in discussing the process and in drafting and reviewing guidelines, as well as potentially writing
+      VBScript in Power Designer, which was necessary for my team and new employees who will
+      conduct GAP analyses in the future. The Scaled Agile methodology is becoming increasingly
+      important in the organization. I also obtained my Scaled Agile certification.
         - Bullet point
         - Bullet point
     achievements:
       desc: |
-        Praesentium voluptatum deleniti atque corrupti quos dolores et quas
-        molestias excepturi sint occaecati cupiditate non provident.
+        Data Modeling, Scaled Agile, Power Designer, Excel, VBS
       highlights:
         - Lorem ipsum dolor sit amet, 80% consectetuer adipiscing elit.
         - At vero eos et accusamus et iusto odio dignissimos.
