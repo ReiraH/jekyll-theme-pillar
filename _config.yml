@@ -4,31 +4,31 @@
 
 # SEO plugin
 title: My Resume
-author: Steve Doe
-tagline: Full Stack Developer # Short description for jekyll-seo-tag
+author: Rhea Hau
+tagline: Data Analyst Junior # Short description for jekyll-seo-tag
 description: A beautiful Jekyll theme for creating resume # Longer description for jekyll-seo-tag
 
 url: "https://fculpo.github.io"
 baseurl: "/jekyll-theme-pillar" # change it according to your repository name
 
 twitter:
-  username: stevedoe123
+  username: rheahau
   card: summary
 
 social:
   links:
-    - https://twitter.com/stevedoe123
-    - https://www.facebook.com/stevedoe123
-    - https://www.linkedin.com/in/stevedoe123
-    - https://github.com/stevedoe123
-    - https://keybase.io/stevedoe123
+    - https://twitter.com/rheahau
+    - https://www.facebook.com/rheahau
+    - https://www.linkedin.com/in/rhea-h-a821ba22
+    - https://github.com/reirah
+    - https://keybase.io/rheahau
 
 google_site_verification: # Put your google verification tag here
 
 # End SEO
 
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
-theme_skin: gray # gray blue turquoise green berry red
+theme_skin: red # gray blue turquoise green berry red
 
 plugins:
   - jekyll-sitemap
