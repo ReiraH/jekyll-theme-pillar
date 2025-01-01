@@ -1,0 +1,18 @@
+{% assign certificates = site.data.data.certificates %}
+{% if certificates %}
+<section class="resume-section certificates-section mb-5">
+    <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">{{ site.data.labels.certificates | default: "Certificates" }}</h2>
+    <div class="resume-section-content">
+        <ul class="list-unstyled">
+            {% for training in certificates %}
+            <li class="mb-2">
+                <div class="resume-degree font-weight-bold">{{ training.degree }}</div>
+                <div class="resume-degree-org">{{ training.university }}</div>
+                <div class="resume-degree-time">{{ training.time }}</div>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+</section>
+<!--//certificates-section-->
+{% endif %}
