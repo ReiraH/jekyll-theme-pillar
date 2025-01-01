@@ -181,6 +181,29 @@ experiences:
       - HTML/LESS
       - MongoDB
 
+certificates:
+  - degree: Certified Big Data Science Professional
+    university:  Arcitura Education Inc.
+    time: 2014
+    details: |
+      A Certified Big Data Science Professional has knowledge of fundamental 
+      data science and Big Data concepts and models, as well as an understanding of 
+      Big Data analysis, analytics and mechanisms.
+        - Fundamental Big Data Science & Analytics
+        - Big Data Analysis & Technology Concepts
+        - Big Data Analysis & Technology Lab
+  - degree: Certified Big Data Professional
+    university: Arcitura Education Inc.
+    time: 2024
+    details: |
+      Describe your study here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      sociis natoque penatibus et magnis dis parturient montes, nascetur
+      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      pretium quis, sem.
+        - Bullet point
+        - Bullet point
+
 awards:
   - name: Award Name Lorem
     description: |
