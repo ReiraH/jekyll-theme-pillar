@@ -4,7 +4,7 @@
 
 header:
   # Profile information
-  avatar: profile2.jpeg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  avatar: profile3.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
   email: contact@rheahau.com
   phone: 0123 456 78900
   website: https://rheahau.com
