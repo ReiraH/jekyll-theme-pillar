@@ -6,15 +6,15 @@ header:
   # Profile information
   avatar: profile3.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
   email: contact@rheahau.com
-  phone: 0123 456 78900
+  phone: 
   website: https://rheahau.com
   linkedin: rhea-h-a821ba22
   github: reirah
-  gitlab: rheahau
-  bitbucket: rheahau
+  gitlab: 
+  bitbucket: 
   twitter: "@chilay09"
   stack-overflow: # Number/Username, e.g. 123456/alandoe
-  codewars: rheahau
+  codewars: 
   goodreads: # Number-Username, e.g. 123456-alandoe
 
 languages:
