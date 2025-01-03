@@ -96,7 +96,7 @@ education:
 
 experiences:
   - role: Trainee, Data & Information Analyst
-    time: 2014 - Present
+    time: 2024 - Present
     company: UWV
     details: |
       Role description: During my traineeship, I participated in establishing both functional and
@@ -108,43 +108,46 @@ experiences:
       VBScript in Power Designer, which was necessary for my team and new employees who will
       conduct GAP analyses in the future. The Scaled Agile methodology is becoming increasingly
       important in the organization. I also obtained my Scaled Agile certification.
-        - Bullet point
-        - Bullet point
-    achievements:
-      desc: |
-        Data Modeling, Scaled Agile, Power Designer, Excel, VBS
-      highlights:
-        - Lorem ipsum dolor sit amet, 80% consectetuer adipiscing elit.
-        - At vero eos et accusamus et iusto odio dignissimos.
-        - Blanditiis praesentium voluptatum deleniti atque corrupti.
-        - Maecenas tempus tellus eget.
+    #    - Bullet point
+    #    - Bullet point
+    #achievements:
+    #  desc: |
+    #    Data Modeling, Scaled Agile, Power Designer, Excel, VBS
+    #  highlights:
+    #    - Lorem ipsum dolor sit amet, 80% consectetuer adipiscing elit.
+    #    - At vero eos et accusamus et iusto odio dignissimos.
+    #    - Blanditiis praesentium voluptatum deleniti atque corrupti.
+    #    - Maecenas tempus tellus eget.
     technologies:
-      - Angular
-      - Python
-      - jQuery
-      - Webpack
-      - HTML/SASS
-      - PostgresSQL
+      - Data Modeling
+      - Scaled Agile
+      - Power Designer
+      - Excel
+      - VBS
+    #  - PostgresSQL
 
-  - role: Senior Software Developer
-    time: 2014 - 2018
-    company: Google
+  - role: Temporary recruiter
+    time: 2023 - 2023
+    company: Young Capital NEXT
     details: |
-      Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit.
-      Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Donec pede justo, fringilla vel.
-    achievements:
-      desc: |
-        Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-        Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
-    technologies:
-      - React
-      - Redux
-      - Django
-      - Webpack
-      - HTML/SASS
-      - MySQL
+      Role description: Between August 2023 and January 2024, I assisted in interviewing candidates
+      as a recruiter to assess their suitability and determine if they meet the client’s requirements.
+      I helped candidates resolve issues and answered their questions or uncertainties throughout
+      their deployment period until the end of the project. My main responsibilities included
+      communication with the candidates, recruitment, supporting my team during presentations,
+      managing email correspondence, and handling administrative tasks.
+    #achievements:
+    #  desc: |
+    #    Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+    #    Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
+    soft skills:
+      - Adaptability
+      - Precision
+      - Stress Resilience
+      - Teamwork
+      - Resilience
+      - Proactivity
+      - Em-pathy
 
   - role: Co-Founder & Lead Developer
     time: 2012 - 2014
